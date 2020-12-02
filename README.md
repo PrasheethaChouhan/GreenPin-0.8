@@ -1,1 +1,1 @@
-# GreenPin-latest
+# GreenPin-0.2
